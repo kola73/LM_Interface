@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aa7d536e-9784-4d2c-82bd-42bf61c9ceaf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../LM_Interface" beforeDir="false" afterPath="$PROJECT_DIR$/../LM_Interface" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1WVk9N8920pSSw1mWkJfGxeDHBc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../LM_Interface" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.kola.lesson19" />
+      <recent name="com.kola.lesson18" />
+      <recent name="com.kola.lesson17" />
+      <recent name="com.kola.lesson16" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Test (2)">
+    <configuration name="PackageClazz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kola.lesson16.PackageClazz" />
+      <module name="kola" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kola.lesson16.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParrotPickMoney" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kola.lesson14.ParrotPickMoney" />
+      <module name="kola" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kola.lesson14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kola.lesson17.Test" />
+      <module name="kola" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kola.lesson17.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kola.lesson18.Test" />
+      <module name="kola" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kola.lesson18.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kola.lesson15.Test" />
+      <module name="kola" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kola.lesson15.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test (2)" />
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.PackageClazz" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.ParrotPickMoney" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa7d536e-9784-4d2c-82bd-42bf61c9ceaf" name="Default Changelist" comment="" />
+      <created>1579241996674</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579241996674</updated>
+      <workItem from="1579241999159" duration="653000" />
+      <workItem from="1579242689696" duration="1737000" />
+      <workItem from="1579414754721" duration="600000" />
+      <workItem from="1582463549609" duration="599000" />
+      <workItem from="1582727722001" duration="600000" />
+      <workItem from="1582906080200" duration="2438000" />
+      <workItem from="1582983800656" duration="4836000" />
+      <workItem from="1583046932922" duration="10503000" />
+      <workItem from="1583157644300" duration="5412000" />
+      <workItem from="1583245306473" duration="3860000" />
+      <workItem from="1583334527004" duration="2549000" />
+      <workItem from="1583415807735" duration="602000" />
+      <workItem from="1583503432833" duration="2912000" />
+      <workItem from="1583583122237" duration="6717000" />
+      <workItem from="1583655286391" duration="7668000" />
+      <workItem from="1583724005061" duration="1059000" />
+      <workItem from="1583764105692" duration="753000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="74" key="#Scopes" timestamp="1582989995677">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="74" key="#Scopes/0.0.1536.824@0.0.1536.824" timestamp="1582989995677" />
+    <state x="524" y="119" key="#com.intellij.ide.util.MemberChooser" timestamp="1583659983011">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="524" y="119" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1583659983011" />
+    <state x="553" y="302" width="429" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1583248677503">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="553" y="302" width="429" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1583248677503" />
+    <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1583766918916">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1583766918916" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1583600597194">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583600597194" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1583600597194">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583600597194" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1583600597194">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583600597194" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1583600597194">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583600597194" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1583600254750">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583600254750" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1583600254750">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1583600254750" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1583600254750">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1583600254750" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1583600254750">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1583600254750" />
+    <state x="461" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1579242002233">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="461" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1579242002233" />
+  </component>
+</project>
