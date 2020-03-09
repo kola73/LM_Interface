@@ -1,4 +1,7 @@
-package com.kola.lesson19;
+package com.kola.lesson21.future;
+
+import com.kola.lesson19.InnerUser;
+import com.kola.lesson19.Login;
 
 /**
  * 封装
