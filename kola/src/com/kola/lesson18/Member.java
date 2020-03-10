@@ -36,7 +36,7 @@ public class Member {
     }
 
     public void setMobilePhone(String mobilePhone) {
-        if (mobilePhone.length() == 1) {
+        if (mobilePhone.length() == 11) {
             this.mobilePhone = mobilePhone;
         }
     }
