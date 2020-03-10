@@ -9,4 +9,5 @@ public class Borrower extends Member {
         System.out.println("开启小额充值通道");
         super.recharge(amonut);
     }
+
 }

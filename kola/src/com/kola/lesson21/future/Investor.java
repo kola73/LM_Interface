@@ -19,4 +19,20 @@ public class Investor extends Member {
         // 投资人的登录方法
     }
 
+    /*
+    1，投资金额必须是10的正整数倍
+    2，投资金额必须大于可用余额
+    3，投资金额必须小于标的可投余额
+     */
+    public void invest(double amount) {
+        if (amount <= 0 || amount % 10 != 0) {
+            System.out.println("投资金额必须是10的正整数倍！");
+        } else if (amount > this.getAmonut()) {
+            System.out.println("投资失败，投资金额大于可用余额");
+        } else {
+            this.setAmonut(this.getAmonut() - amount);
+            System.out.println("投资成功！");
+        }
+    }
+
 }
